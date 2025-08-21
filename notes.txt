@@ -1,0 +1,39 @@
+1. Title: “Apple's Vision Pro Struggles To Gain Traction Amid Slow Release Of Immersive Video”
+Summary / Event: The high-priced headset isn’t capturing enough users; innovation is slow.
+Credit Relevance: Warning – Could indicate slower revenue growth or weaker product adoption, early risk signal for Apple’s credit profile.
+
+2. Title: “Evaluating Apple Against Peers In Technology Hardware, Storage & Peripherals Industry”
+Summary / Event: Comprehensive industry comparison shows Apple performing well relative to peers.
+Credit Relevance: Positive – Strong market position suggests stability, lowers credit risk.
+
+3. Title: “Billionaire Warren Buffett Sold 41% of Berkshire's Stake in Bank of America”
+Summary / Event: Large sale of Bank of America shares but reinvestment into other consumer-facing company.
+Credit Relevance: Neutral/Warning – While Buffett’s moves don’t directly hurt credit, selling large stakes may indicate risk adjustments; keep an eye on financial stability of affected companies.
+
+4. Title: “Here is What to Know Beyond Why Apple Inc. is a Trending Stock”
+Summary / Event: Apple stock trending, investor interest is high.
+Credit Relevance: Positive – High investor confidence and stable earnings support lower credit risk.
+
+5. Title: “Prediction: These 3 Artificial Intelligence (AI) Stocks Will Be Worth Over $10 Trillion by 2035”
+Summary / Event: Long-term bullish predictions for AI-related companies including Apple.
+Credit Relevance: Positive – Indicates expected growth and strong future cash flows; lowers credit risk.
+
+
+////////////////////////////////////
+Ingestion Phase:
+- Script: fetch_news.py fetches news for AAPL, TSLA every hour.
+- Saves to: news_AAPL.json, news_TSLA.json.
+- Fault tolerance: Handles invalid tickers and network errors.
+- API limit: 25 requests/day, 2 tickers use 2 requests per cycle.
+
+2.
+Processing Phase:
+- Keywords like "debt", "bankruptcy" -> Increase risk (lower score).
+- Keywords like "funding", "profit" -> Decrease risk (higher score).
+- Sentiment < 0 -> Negative signal for score.
+- Example: "Apple faces debt issue" with sentiment -0.3 -> Risk up.
+3.
+Processing Phase:
+- Processed AAPL, TSLA news, saved to processed_news_AAPL.csv, processed_news_TSLA.csv.
+- Example: Title: "Apple faces debt issue", Keywords: [('debt', 'negative')], Sentiment: -0.3 (negative).
+- Edge cases: Handles empty files, missing title/summary.
