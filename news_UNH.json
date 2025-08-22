@@ -1,5 +1,121 @@
 [
   {
+    "title": "Wall Street's Bubble Wrap: Shiller Screams, Buffett Hides, AI Drinks The Punch - NVIDIA  ( NASDAQ:NVDA ) , UnitedHealth Group  ( NYSE:UNH ) ",
+    "url": "https://www.benzinga.com/markets/equities/25/08/47266404/wall-streets-bubble-wrap-shiller-screams-buffett-hides-ai-drinks-the-punch",
+    "time_published": "20250821T173735",
+    "authors": [
+      "Stjepan Kalinic"
+    ],
+    "summary": "Marks of excess: Shiller P/E near 39, Buffett's GDP gauge at 212%, Berkshire hoards record cash. Sam Altman warns of an AI bubble as power grids strain - someone will lose a phenomenal amount. See the seasonal trading strategy that's beating the S&P 500 by 6X this year. Details here \u2192",
+    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/08/21/Markets-Price-In-Two-Rate-Cuts.jpeg?width=1200&height=800&fit=crop",
+    "source": "Benzinga",
+    "category_within_source": "General",
+    "source_domain": "www.benzinga.com",
+    "topics": [
+      {
+        "topic": "Economy - Monetary",
+        "relevance_score": "0.158519"
+      },
+      {
+        "topic": "Financial Markets",
+        "relevance_score": "0.266143"
+      },
+      {
+        "topic": "Manufacturing",
+        "relevance_score": "0.5"
+      },
+      {
+        "topic": "Earnings",
+        "relevance_score": "0.451494"
+      },
+      {
+        "topic": "Finance",
+        "relevance_score": "0.5"
+      }
+    ],
+    "overall_sentiment_score": 0.067336,
+    "overall_sentiment_label": "Neutral",
+    "ticker_sentiment": [
+      {
+        "ticker": "NVDA",
+        "relevance_score": "0.106778",
+        "ticker_sentiment_score": "0.093921",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "UNH",
+        "relevance_score": "0.106778",
+        "ticker_sentiment_score": "-0.146631",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "BRK-A",
+        "relevance_score": "0.053509",
+        "ticker_sentiment_score": "-0.134707",
+        "ticker_sentiment_label": "Neutral"
+      }
+    ]
+  },
+  {
+    "title": "UNH or ELV: Which Healthcare Titan Will Regain Investor Trust First?",
+    "url": "https://www.zacks.com/stock/news/2741079/unh-or-elv-which-healthcare-titan-will-regain-investor-trust-first",
+    "time_published": "20250821T161800",
+    "authors": [
+      "Kaibalya Pravo Dey"
+    ],
+    "summary": "UnitedHealth and Elevance battle rising costs, but scale, Optum, and Buffett's backing give UNH the edge in restoring investor trust.",
+    "banner_image": "https://staticx-tuner.zacks.com/images/articles/charts/1f/119099.jpg?v=2031671953",
+    "source": "Zacks Commentary",
+    "category_within_source": "n/a",
+    "source_domain": "www.zacks.com",
+    "topics": [
+      {
+        "topic": "Life Sciences",
+        "relevance_score": "0.5"
+      },
+      {
+        "topic": "Financial Markets",
+        "relevance_score": "0.684621"
+      },
+      {
+        "topic": "Earnings",
+        "relevance_score": "0.744043"
+      },
+      {
+        "topic": "Finance",
+        "relevance_score": "0.5"
+      }
+    ],
+    "overall_sentiment_score": 0.229044,
+    "overall_sentiment_label": "Somewhat-Bullish",
+    "ticker_sentiment": [
+      {
+        "ticker": "AMED",
+        "relevance_score": "0.08282",
+        "ticker_sentiment_score": "0.113948",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "ELV",
+        "relevance_score": "0.205109",
+        "ticker_sentiment_score": "0.028243",
+        "ticker_sentiment_label": "Neutral"
+      },
+      {
+        "ticker": "UNH",
+        "relevance_score": "0.500902",
+        "ticker_sentiment_score": "0.261107",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      },
+      {
+        "ticker": "BRK-A",
+        "relevance_score": "0.041466",
+        "ticker_sentiment_score": "0.170683",
+        "ticker_sentiment_label": "Somewhat-Bullish"
+      }
+    ]
+  },
+  {
     "title": "Is This the Right Time to Consider Healthcare ETFs?",
     "url": "https://www.zacks.com/stock/news/2740939/is-this-the-right-time-to-consider-healthcare-etfs",
     "time_published": "20250821T150000",
@@ -3348,148 +3464,6 @@
         "ticker": "CRYPTO:BTC",
         "relevance_score": "0.128478",
         "ticker_sentiment_score": "-0.053195",
-        "ticker_sentiment_label": "Neutral"
-      }
-    ]
-  },
-  {
-    "title": "Warren Buffett's Top 10 Berkshire Bets Span Apple, Coca-Cola, Finance And Oil - Apple  ( NASDAQ:AAPL ) , American Express  ( NYSE:AXP ) ",
-    "url": "https://www.benzinga.com/trading-ideas/long-ideas/25/08/47161924/warren-buffetts-top-10-berkshire-bets-span-apple-coca-cola-finance-and-oil",
-    "time_published": "20250815T163928",
-    "authors": [
-      "Chris Katje"
-    ],
-    "summary": "A look at the top 10 stock holdings in Warren Buffett's Berkshire Hathaway portfolio. The top 10 holdings have underperformed stock market indexes in 2025. Get the latest proven ETF strategies to target and profit from summer volatility before the next big market swing.",
-    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/08/15/Berkshire-Hathaway-Company-And-Warren-Bu.jpeg?width=1200&height=800&fit=crop",
-    "source": "Benzinga",
-    "category_within_source": "Trading",
-    "source_domain": "www.benzinga.com",
-    "topics": [
-      {
-        "topic": "Financial Markets",
-        "relevance_score": "0.999993"
-      },
-      {
-        "topic": "Manufacturing",
-        "relevance_score": "0.25"
-      },
-      {
-        "topic": "Energy & Transportation",
-        "relevance_score": "0.25"
-      },
-      {
-        "topic": "Technology",
-        "relevance_score": "0.25"
-      },
-      {
-        "topic": "Finance",
-        "relevance_score": "0.25"
-      }
-    ],
-    "overall_sentiment_score": 0.195941,
-    "overall_sentiment_label": "Somewhat-Bullish",
-    "ticker_sentiment": [
-      {
-        "ticker": "AAPL",
-        "relevance_score": "0.253866",
-        "ticker_sentiment_score": "-0.005828",
-        "ticker_sentiment_label": "Neutral"
-      },
-      {
-        "ticker": "BAC",
-        "relevance_score": "0.170878",
-        "ticker_sentiment_score": "0.050859",
-        "ticker_sentiment_label": "Neutral"
-      },
-      {
-        "ticker": "CVX",
-        "relevance_score": "0.170878",
-        "ticker_sentiment_score": "0.187727",
-        "ticker_sentiment_label": "Somewhat-Bullish"
-      },
-      {
-        "ticker": "KO",
-        "relevance_score": "0.170878",
-        "ticker_sentiment_score": "0.259159",
-        "ticker_sentiment_label": "Somewhat-Bullish"
-      },
-      {
-        "ticker": "BRK-A",
-        "relevance_score": "0.719473",
-        "ticker_sentiment_score": "0.159377",
-        "ticker_sentiment_label": "Somewhat-Bullish"
-      },
-      {
-        "ticker": "KHC",
-        "relevance_score": "0.085936",
-        "ticker_sentiment_score": "0.066705",
-        "ticker_sentiment_label": "Neutral"
-      },
-      {
-        "ticker": "MCO",
-        "relevance_score": "0.085936",
-        "ticker_sentiment_score": "0.066705",
-        "ticker_sentiment_label": "Neutral"
-      },
-      {
-        "ticker": "AXP",
-        "relevance_score": "0.085936",
-        "ticker_sentiment_score": "0.066705",
-        "ticker_sentiment_label": "Neutral"
-      },
-      {
-        "ticker": "MSBHF",
-        "relevance_score": "0.170878",
-        "ticker_sentiment_score": "0.354912",
-        "ticker_sentiment_label": "Bullish"
-      },
-      {
-        "ticker": "UNH",
-        "relevance_score": "0.170878",
-        "ticker_sentiment_score": "-0.115818",
-        "ticker_sentiment_label": "Neutral"
-      }
-    ]
-  },
-  {
-    "title": "Has UNH Stock Hit The Bottom? Here's What Our Readers Think - UnitedHealth Group  ( NYSE:UNH ) ",
-    "url": "https://www.benzinga.com/news/health-care/25/08/47156785/exclusive-has-unh-stock-hit-the-bottom-heres-what-our-readers-think",
-    "time_published": "20250815T142654",
-    "authors": [
-      "Surbhi Jain"
-    ],
-    "summary": "UnitedHealth Group ( UNH ) has slumped over 40% year-to-date and 48% over the past year. Benzinga's PreMarket Playbook viewers weigh in on whether the stock has hit its bottom. Get the latest proven ETF strategies to target and profit from summer volatility before the next big market swing.",
-    "banner_image": "https://cdn.benzinga.com/files/images/story/2025/08/15/UnitedHealth-Slumps-As-Investors-Pivot-T.jpeg?width=1200&height=800&fit=crop",
-    "source": "Benzinga",
-    "category_within_source": "General",
-    "source_domain": "www.benzinga.com",
-    "topics": [
-      {
-        "topic": "Earnings",
-        "relevance_score": "0.310843"
-      },
-      {
-        "topic": "Finance",
-        "relevance_score": "1.0"
-      },
-      {
-        "topic": "Financial Markets",
-        "relevance_score": "0.87644"
-      }
-    ],
-    "overall_sentiment_score": 0.026618,
-    "overall_sentiment_label": "Neutral",
-    "ticker_sentiment": [
-      {
-        "ticker": "UNH",
-        "relevance_score": "0.720958",
-        "ticker_sentiment_score": "0.019693",
-        "ticker_sentiment_label": "Neutral"
-      },
-      {
-        "ticker": "BRK-A",
-        "relevance_score": "0.122894",
-        "ticker_sentiment_score": "-0.019892",
         "ticker_sentiment_label": "Neutral"
       }
     ]
