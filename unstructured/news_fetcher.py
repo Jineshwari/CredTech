@@ -4,7 +4,7 @@ import time
 import os  # New: For checking file timestamps
 
 # Your Alpha Vantage API key
-API_KEY = "9CCSXABEO1Q3G1AZ"  # Replace with your key from api_key.txt
+API_KEY = "MONBNGLRYF5JYSFJ"  # Replace with your key from api_key.txt
 
 def fetch_news(ticker="AAPL", limit=5):
     url = f"https://www.alphavantage.co/query?function=NEWS_SENTIMENT&tickers={ticker}&topics=financial&limit={limit}&apikey={API_KEY}"
